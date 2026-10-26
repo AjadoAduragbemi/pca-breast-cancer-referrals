@@ -1,0 +1,5 @@
+pyspark==4.2.0
+pandas>=2.2,<3   # PySpark 4.2 does not yet fully support pandas 3
+pyarrow>=18
+matplotlib>=3.7
+jupyterlab>=4.0
